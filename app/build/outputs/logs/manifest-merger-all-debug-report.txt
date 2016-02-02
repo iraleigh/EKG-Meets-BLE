@@ -1,0 +1,57 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:21:1-40:12
+	package
+		ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:22:5-38
+		INJECTED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:21:11-69
+uses-feature#0x00020000
+ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:23:3-75
+	android:glEsVersion
+		ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:23:17-49
+	android:required
+		ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:23:50-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:24:22-65
+application
+ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:25:5-39:19
+	android:label
+		ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:29:9-53
+	android:fullBackupContent
+		ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:27:9-42
+	android:allowBackup
+		ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:26:9-36
+	android:icon
+		ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:28:9-43
+activity#com.android.sensorgraph.SensorGraphActivity
+ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:30:7-38:18
+	android:launchMode
+		ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:32:17-48
+	android:configChanges
+		ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:33:17-67
+	android:theme
+		ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:31:17-75
+	android:name
+		ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:30:17-75
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:34:9-37:25
+action#android.intent.action.MAIN
+ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:35:11-63
+	android:name
+		ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:35:19-60
+category#android.intent.category.LAUNCHER
+ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:36:11-71
+	android:name
+		ADDED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml:36:21-68
+uses-sdk
+INJECTED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/AndroidManifest.xml

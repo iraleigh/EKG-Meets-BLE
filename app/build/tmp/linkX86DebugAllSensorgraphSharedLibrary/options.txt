@@ -1,0 +1,17 @@
+-shared
+-Wl,-soname,libsensorgraph.so
+-o
+/Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/build/intermediates/binaries/debug/all/obj/x86/libsensorgraph.so
+/Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/build/intermediates/objectFiles/x86DebugAllSensorgraphSharedLibrary/sensorgraphMainCpp/71adqla04yeq30w4j3otrynt3/sensorgraph.o
+-Wl,--no-undefined
+-Wl,-z,noexecstack
+-Wl,-z,relro
+-Wl,-z,now
+--sysroot=/Users/iainchf/Library/Android/sdk/ndk-bundle/platforms/android-21/arch-x86
+-Wl,--build-id
+-L/Users/iainchf/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/libs/x86
+-lc++_static
+-no-canonical-prefixes
+-llog
+-lGLESv2
+-landroid

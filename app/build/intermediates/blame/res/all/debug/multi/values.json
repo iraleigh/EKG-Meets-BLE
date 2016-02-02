@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/build/intermediates/res/merged/all/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 61,
+                        "endOffset": 916
+                    }
+                }
+            }
+        ]
+    }
+]

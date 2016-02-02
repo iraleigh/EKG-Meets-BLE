@@ -1,0 +1,4 @@
+See file:///Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/build/tmp/compileX86_64DebugAllSensorgraphSharedLibrarySensorgraphMainCpp/output.txt for all output for compileX86_64DebugAllSensorgraphSharedLibrarySensorgraphMainCpp.
+compiling sensorgraph.cpp successful.
+
+Finished compileX86_64DebugAllSensorgraphSharedLibrarySensorgraphMainCpp, see full log file:///Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/build/tmp/compileX86_64DebugAllSensorgraphSharedLibrarySensorgraphMainCpp/output.txt.

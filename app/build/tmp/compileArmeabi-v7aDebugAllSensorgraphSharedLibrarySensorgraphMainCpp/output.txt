@@ -1,0 +1,4 @@
+See file:///Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/build/tmp/compileArmeabi-v7aDebugAllSensorgraphSharedLibrarySensorgraphMainCpp/output.txt for all output for compileArmeabi-v7aDebugAllSensorgraphSharedLibrarySensorgraphMainCpp.
+compiling sensorgraph.cpp successful.
+
+Finished compileArmeabi-v7aDebugAllSensorgraphSharedLibrarySensorgraphMainCpp, see full log file:///Users/iainchf/AndroidStudioProjects/Sensor-Graph-Testing-For-CSC699/app/build/tmp/compileArmeabi-v7aDebugAllSensorgraphSharedLibrarySensorgraphMainCpp/output.txt.
